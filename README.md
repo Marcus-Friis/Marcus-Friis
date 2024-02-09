@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<iframe src="https://giphy.com/embed/Gpf8A8aX2uWAg" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reactiongifs-Gpf8A8aX2uWAg">via GIPHY</a></p>
+![]("https://giphy.com/gifs/reactiongifs-Gpf8A8aX2uWAg")
 
 <!--
 **Marcus-Friis/Marcus-Friis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
